@@ -2,7 +2,7 @@
   <img src="https://github.com/Ale-AG03/Ale-AG03/raw/main/banner.gif" alt="Banner animado" width="100%" />
 </p>
 
-<h1 align="center">¡Hola! Soy <span style="color:#4CAF50;">Alejandro</span> 👋</h1>
+<h1 align="center">¡Hola! Soy <span style="color:#4CAF50;">Ale</span> 👋</h1>
 
 <p align="center">
   <strong>Desarrollador Fullstack | Creador de Bots | Fanático de Fortnite 🎮</strong>
@@ -46,8 +46,7 @@ Soy un apasionado desarrollador con experiencia en crear bots para Discord, inte
 
 | Proyecto         | Descripción                              | Link                                         |
 |------------------|----------------------------------------|----------------------------------------------|
-| Ale-Bot          | Bot de Discord con integración Fortnite | [GitHub](https://github.com/Ale-AG03/Ale-Bot) |
-| Fortnite Store Bot| Consulta tienda diaria de Fortnite      | Próximamente...                              |
+| Sofi-Bot          | Bot de Discord con integración Fortnite | [GitHub](#) |
 
 ---
 
@@ -63,7 +62,7 @@ Soy un apasionado desarrollador con experiencia en crear bots para Discord, inte
 ## 📫 Contáctame
 
 ¡Estoy abierto a colaboraciones, preguntas y propuestas!  
-Discord: `alberto#1234`  
+Discord: `alegonzalez03`  
 Email: `tu-email@ejemplo.com`
 
 ---
