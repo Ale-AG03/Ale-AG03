@@ -9,7 +9,7 @@
 
 ### 🚀 Proyectos destacados
 
-- 🎮 [**Ale-Bot**](https://github.com/Ale-AG03/Ale-Bot): Bot de Discord con integración a Fortnite.
+- 🎮 [**Sofi-bot**](#): Bot de Discord con integración a Fortnite.
 - 🛠️ [**Configuraciones personales**](#): Próximamente subiré mis dotfiles y settings.
 
 ---
