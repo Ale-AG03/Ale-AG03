@@ -57,6 +57,7 @@ Soy un apasionado desarrollador con experiencia en crear bots para Discord, inte
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ale-AG03&show_icons=true&theme=radical" alt="Stats GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ale-AG03&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-AG03&show_icons=true&hide_border=false&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
