@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/tu-discord-id" target="_blank">
+  <a href="https://discord.com/users/610852158749016065" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/Ale-AG03" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com" target="_blank">
+<!--   <a href="mailto:tu-email@ejemplo.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
 </p>
 
 ---
